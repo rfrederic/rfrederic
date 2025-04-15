@@ -43,6 +43,9 @@
 ![HTML5]
 ![CSS3]
 ![JavaScript]
+![Git, GitHub, VSCode, and Figma]
+
+
 
 ---
 
