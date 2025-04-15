@@ -11,9 +11,8 @@
 
 ## 💻 What I'm working on:
 - Sharpening my skills in **Full Stack Web Development**
-- Building projects using **HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB**
-- Gearing up for a **career in tech** once I move to Canada this September 🇨🇦
-- Supporting my amazing fiancée as she studies to become a **Physician Assistant**
+- Building projects using **HTML, CSS, JavaScript**
+- Gearing up for a **career in tech** once I finish my learning journey
 
 ---
 
